@@ -1,0 +1,12 @@
+[api]
+urls: www.pedrorijo91.github.io,www.pedrorijo91.github.io/about
+
+[time]
+sleep_time: 10
+
+[email]
+server: smtp.gmail.com:587
+account: mail@gmail.com
+password: pass
+recipients: mail1@mail.com,mail2@mail.com,mail3@mail.com
+subject: API changes detected
